@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_feed"
+        android:icon="@mipmap/ic_rss_feed_black_24dp"
+        android:title="@string/title_feed" />
+
+    <item
+        android:id="@+id/navigation_search"
+        android:icon="@mipmap/ic_search_black_24dp"
+        android:title="@string/title_search" />
+
+    <item
+        android:id="@+id/navigation_save"
+        android:icon="@mipmap/ic_favorite_black_24dp"
+        android:title="@string/title_save" />
+    <item
+        android:id="@+id/navigation_alert"
+        android:icon="@mipmap/ic_add_alert_black_24dp"
+        android:title="@string/title_alert" />
+    <item
+        android:id="@+id/navigation_more"
+        android:icon="@mipmap/ic_more_horiz_black_24dp"
+        android:title="@string/title_more" />
+
+</menu>
